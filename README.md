@@ -1,3 +1,5 @@
+## Opentic-Fashion Landing Page
+
 ### How to run 💻
 Please follow the below instructions to run this project in your machine:
 ## Getting Started
