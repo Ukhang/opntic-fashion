@@ -1,4 +1,5 @@
 ## Opentic-Fashion Landing Page
+beautiful UI landing page template
 
 ### How to run 💻
 Please follow the below instructions to run this project in your machine:
