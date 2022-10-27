@@ -1,10 +1,7 @@
 ## Opentic-Fashion Landing Page
 beautiful UI landing page template
 
-### watch live
-```bash
-https://opntic-fashion.vercel.app/
-```
+#### watch live: https://opntic-fashion.vercel.app/
 
 ### How to run 💻
 Please follow the below instructions to run this project in your machine:
